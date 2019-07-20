@@ -4,9 +4,15 @@ test 이미지 넣기
 
 ![이미지이름](./이미지가 있는 폴더/이미지이름.형식)
 
-![test](./test.JPG){: width="100" height="100" border=1px solid=#ccc }
+![test](./test.JPG){: width="100" height="100" }
 
-<img src="./test.JPG" border=1>
+![test](./test.JPG){ width="50%" height="50%" }
+
+<img src="./test.JPG" width="50%" height="50%" border=1>
 
 # 제목넣기
 잘 되나?
+
+```
+코드넣기 
+```
